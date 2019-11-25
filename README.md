@@ -17,3 +17,9 @@ Menu Icons
 
 
 ```
+
+### Serving the page
+
+```
+Please ensure that you serve all files on your localhost. For example in VS Code you may run the commad - IIS Express: Start  Web Site
+```
